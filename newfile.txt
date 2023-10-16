@@ -1,3 +1,5 @@
 some text for github lab
 
 text for new commit
+
+this line will cause conflict
