@@ -1,3 +1,5 @@
 some text for github lab
 
 text for new commit
+
+new line for future conflict
